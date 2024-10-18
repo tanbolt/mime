@@ -1,0 +1,2 @@
+# mime
+file mimetypes mapping
